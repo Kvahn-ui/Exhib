@@ -1,6 +1,6 @@
-# ©Kvahn version 1.18
-pate = 1.18
-d = input("type how many [full] days left 'till exhibition research due ")
+# ©Kvahn version 1.19
+pate = 1.19
+d = input("type how many [full] days left 'till exam due ")
 h = int(d)*24
 sl = int(d)*9
 usl = int(h) - int(sl)
